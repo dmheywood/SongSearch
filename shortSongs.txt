@@ -1,0 +1,21 @@
+ARTIST="Mildred Hill and Patty Hill"
+TITLE="Happy Birthday To You"
+LYRICS="Happy birthday to you
+Happy birthday to you
+Happy birthday dear _____
+Happy birthday to you
+"
+ARTIST="unknown"
+TITLE="Pop Goes The Weasel"
+LYRICS="Round and round the cobbler's bench
+The monkey chased the weasel,
+The monkey thought 'twas all in fun
+Pop! Goes the weasel.
+"
+ARTIST="unknown"
+TITLE="Rockabye Baby"
+LYRICS="Rockabye baby in the treetops
+When the wind blows your cradle will rock
+When the bow breaks your cradle will fall
+Down will come baby cradle and all
+"
